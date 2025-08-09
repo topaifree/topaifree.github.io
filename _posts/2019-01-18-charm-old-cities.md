@@ -3,7 +3,7 @@ layout: post
 title:  "Download the Safest Free VPN for Your Windows PC"
 author: jane
 categories: [ VPN, App ]
-image: assets/images/homev1.png
+image: https://play-lh.googleusercontent.com/GtvnnH8AwdD9CXCHdwbYtH66DKrgRpvVD8nW5FhkTHEznJ4fItY_tI49hAkb7uHiIA=w2560-h1440-rw
 tags: [sticky]
 ---
 
