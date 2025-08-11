@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Download Phoenix VPN on Windows PC"
+idapp: "com.phoneix.expert"
 author: jane
 categories: [ VPN, App ]
 image: https://phoenixvpn.github.io/assets/images/download-phoenix-vpn-for-pc.jpg
