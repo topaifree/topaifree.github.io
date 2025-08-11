@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Download the Safest Free VPN for Your Windows PC"
+title:  "Download Phoenix VPN on Windows PC"
 author: jane
 categories: [ VPN, App ]
 image: https://phoenixvpn.github.io/assets/images/download-phoenix-vpn-for-pc.jpg
