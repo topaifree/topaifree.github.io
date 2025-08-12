@@ -3,7 +3,7 @@ name: 'PhoenixVPN'
 description: 'PhoenixVPN is a free VPN for PC.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/download-phoenix-vpn-for-pc'/
+baseurl: '/download-phoenix-vpn-for-pc/'
 disqus: 'PhoenixVPN'
 email: 'PhoenixVPNinfo@gmail.com'
 
