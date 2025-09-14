@@ -1,11 +1,11 @@
 # Site
-name: 'PhoenixVPN'
-description: 'PhoenixVPN is a free VPN for PC.'
+name: 'TopAI Free'
+description: 'The Top AI free curated list to help you find the best AI applications to boost your productivity in work and life activities. Updated daily with latest AI tools in the market in various categories.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/download-phoenix-vpn-for-pc/'
-disqus: 'PhoenixVPN'
-email: 'PhoenixVPNinfo@gmail.com'
+baseurl: '/'
+disqus: 'TopAIfree'
+email: 'topaifree@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,19 +20,19 @@ plugins:
 authors:
     sal:
       name:           Sal
-      site:          https://phoenixvpn.github.io/
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Phoenixvpn, the website you're currently previewing. I hope you like it!"
-      email:          phoenixvpnsal@gmail.com
-      twitter:        https://twitter.com/phoenixvpn
+      site:          https://topaifree.github.io/
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of TopAI Free, the website you're currently previewing. I hope you like it!"
+      email:          topaifree@gmail.com
+      twitter:        https://twitter.com/topaifree
 
     jane:
       name:           Jane
-      site:           https://phoenixvpn.github.io/
-      avatar:         /assets/images/avatar2.jpg
+      site:           https://topaifree.github.io/
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          phoenixvpnjane@gmail.com
-      twitter:        https://twitter.com/phoenixvpn
+      email:          topaifree@gmail.com
+      twitter:        https://twitter.com/topaifree
  
 # Defaults
 defaults:
@@ -43,7 +43,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
