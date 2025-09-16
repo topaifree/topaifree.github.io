@@ -5,7 +5,7 @@ description:  "ChatGPT (OpenAI) - ChatGPT is an AI chatbot based on large langua
 author: jane
 categories: [ Jekyll, tutorial ]
 image: "https://statics.topai.tools/img/tools/png/chatgpt-openai.png"
-overview: "AI assistant chatbot that delivers accurate answers, generates high-quality content, and automates various tasks."
+excerpt: "AI assistant chatbot that delivers accurate answers, generates high-quality content, and automates various tasks."
 visithref: "https://chatgpt.com/?via=topaitools"
 tags: AI, Tools, featured
 ---
