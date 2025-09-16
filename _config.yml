@@ -2,7 +2,7 @@
 name: 'TopAI Free'
 description: 'The Top AI free curated list to help you find the best AI applications to boost your productivity in work and life activities. Updated daily with latest AI tools in the market in various categories.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: '/'
 disqus: 'TopAIfree'
 email: 'topaifree@gmail.com'
