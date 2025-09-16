@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "ChatGPT (OpenAI)"
-description:  "ChatGPT (OpenAI) - ChatGPT is an AI chatbot based on large language models family created by OpenAI for general purpose chat that allows users to ask any question or prompt to AI, making it a useful tool for many writing processes."
 author: jane
 categories: [ Jekyll, tutorial ]
-image: "https://statics.topai.tools/img/tools/png/chatgpt-openai.png"
-excerpt: "AI assistant chatbot that delivers accurate answers, generates high-quality content, and automates various tasks."
-visithref: "https://chatgpt.com/?via=topaitools"
-tags: AI, Tools, featured
+image: assets/images/6.jpg
+tags: featured
 ---
 What is ChatGPT (OpenAI)?
 
